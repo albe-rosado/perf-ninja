@@ -7,7 +7,6 @@ env:
 
 jobs:
   build:
-    runs-on: [ macOS, ARM64]
     timeout-minutes: 5
     
     steps:
